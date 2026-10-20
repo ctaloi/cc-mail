@@ -41,3 +41,7 @@ rule) into `~/.config/hypr/` and requires it from `bindings.lua`.
 
 Needs Omamail (its CLI at `~/.local/share/omamail/bin/omamail`, override with
 `OMAMAIL_BIN`), `fzf`, `jq` and `claude`.
+
+## License
+
+MIT. The icon is the Claude logo from [dashboard-icons](https://github.com/homarr-labs/dashboard-icons); the logo itself is Anthropic's trademark.

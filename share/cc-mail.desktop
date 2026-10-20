@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Claude Mail
+Comment=Hand an Omamail message to Claude Code
+Exec=omarchy-launch-tui --app-id=org.omarchy.ccmail cc-mail
+Icon=cc-mail
+StartupWMClass=org.omarchy.ccmail
+Terminal=false
+Categories=Network;Email;
